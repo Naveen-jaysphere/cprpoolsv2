@@ -1,0 +1,48 @@
+# Cloudflare Pages Redirects
+# Handle clean URLs for the multi-page app
+/home /home.html 200
+/about /about.html 200
+/gallery /gallery.html 200
+/contact /contact.html 200
+/thank-you /thank-you.html 200
+/pool-installation /pool-installation.html 200
+/pool-resurfacing /pool-resurfacing.html 200
+/pool-crack-repair /pool-crack-repair.html 200
+/custom-pool-construction /custom-pool-construction.html 200
+/pool-remodeling /pool-remodeling.html 200
+/spa-installation /spa-installation.html 200
+/custom-pool-design /custom-pool-design.html 200
+/pool-tile-installation /pool-tile-installation.html 200
+/pool-finishing /pool-finishing.html 200
+/pool-coping-installation /pool-coping-installation.html 200
+/pool-equipment-installation /pool-equipment-installation.html 200
+/commercial-pool-construction /commercial-pool-construction.html 200
+/privacy-policy /privacy-policy.html 200
+/terms-conditions /terms-conditions.html 200
+
+# Service Area Pages
+/sherman-oaks /sherman-oaks.html 200
+/los-angeles /los-angeles.html 200
+/beverly-hills /beverly-hills.html 200
+/santa-monica /santa-monica.html 200
+/marvista /marvista.html 200
+/west-wood /west-wood.html 200
+/malibu /malibu.html 200
+/pacific-palisades /pacific-palisades.html 200
+/thousand-oaks /thousand-oaks.html 200
+/aguora-hills /aguora-hills.html 200
+/west-hills /west-hills.html 200
+/simi-valley /simi-valley.html 200
+/chatsworth /chatsworth.html 200
+/porter-ranch /porter-ranch.html 200
+/northridge /northridge.html 200
+/granada-hills /granada-hills.html 200
+/santa-clarita /santa-clarita.html 200
+/pasadena /pasadena.html 200
+/altadena /altadena.html 200
+/west-chester /west-chester.html 200
+/marina-del-rey /marina-del-rey.html 200
+/playa-vista /playa-vista.html 200
+
+# Fallback to 404
+/* /404.html 404

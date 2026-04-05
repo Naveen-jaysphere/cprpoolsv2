@@ -1,0 +1,7 @@
+{
+  "name": "CPR Pools",
+  "description": "Expert Pool Building & Remodeling Services in Sherman Oaks, CA. CPR Pools provides professional installation, resurfacing, and custom pool construction across the San Fernando Valley.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
