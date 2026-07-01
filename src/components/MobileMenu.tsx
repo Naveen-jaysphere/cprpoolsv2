@@ -155,7 +155,7 @@ export const MobileMenu = () => {
                 className="mt-8 p-6 bg-gray-50 rounded-2xl"
               >
                 <h4 className="text-primary font-bold uppercase tracking-widest text-xs mb-4">Quick Contact</h4>
-                <a href="tel:+18185216120" className="text-xl font-bold block mb-2">(818) 521-6120</a>
+                <a href="tel:+18184848383" className="text-xl font-bold block mb-2">(818) 484-8383</a>
                 <p className="text-sm text-gray-500">Available 24/7 for emergencies</p>
               </motion.div>
             </nav>
